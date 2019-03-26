@@ -1,6 +1,5 @@
 #!/bin/bash
 # Author 	: Roby Firnando Y - ExploreOurBrain , Alcodepedia
-# Website 	: http://robyfirnando.kryptonraven.com
 # Github 	: http://github.com/robyfirnandoyusuf, http://github.com/exploreourbrain
 # Contact 	: http://facebook.com/explore-our-brain
 # NB 		: chmod +x larabash.sh, not support windows gayn
