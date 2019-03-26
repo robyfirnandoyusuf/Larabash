@@ -3,8 +3,7 @@
 # Website 	: http://robyfirnando.kryptonraven.com
 # Github 	: http://github.com/robyfirnandoyusuf, http://github.com/exploreourbrain
 # Contact 	: http://facebook.com/explore-our-brain
-# NB 		: chmod +x larabash.sh, for Linux only gayn
-
+# NB 		: chmod +x larabash.sh, not support windows gayn
 cat << "EOF"
   _                    ____            _     
  | |    __ _ _ __ __ _| __ )  __ _ ___| |__  
